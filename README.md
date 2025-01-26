@@ -1,6 +1,6 @@
 # Breast-Cancer-Detection-Diagnosis-and-Classification
 ## Leveraging machine learning, significally neural networks (NN), offers the potential to automate and enhance diagnostic accuracy, enabling early detection and better patient outcomes.
-file:///Users/tobioyetunji/Downloads/Breast%20Cancer.webp
+![Breast Cancer](https://github.com/user-attachments/assets/ff5df2b3-adc9-49ce-8247-856e1b4bceb1)
 
 # Introduction
 Breast cancer is one of the most common cancers affecting women globally, with over 2.2 million new cases diagnosed annually. Early detection and accurate diagnosis are crucial for improving survival rates. However, manual interpretation of diagnostic data can be time-consuming and prone to human error. This project leverages machine learning techniques, specifically Artificial Neural Networks (ANN), to automate breast cancer detection and classification, aiming to improve accuracy, efficiency, and patient outcomes.
