@@ -62,4 +62,5 @@ The project aims to develop and evaluate a Neural Network model to:
 The Neural Network model demonstrated high accuracy and reliability in detecting and classifying breast cancer. By automating the diagnostic process, this project highlights the potential of machine learning to improve healthcare efficiency and reduce diagnostic errors. Future work could explore integrating other clinical data and applying the approach to other medical conditions to expand its utility.
 
 # Thank You
-![Tobi Oyetunji 2 png](https://github.com/user-attachments/assets/98b9668a-49b6-4a1f-9d2a-64ab916d905a)
+![Tobi Oyetunji png](https://github.com/user-attachments/assets/85043c5b-dbf0-44fa-b0c4-aa62c96c23ed)
+
